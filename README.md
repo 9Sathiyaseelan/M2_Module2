@@ -2,7 +2,7 @@
 Naming Convention:  "Heating System"
 
 ##  Badges
-* Codacy
+* Codacy [![Codacy Badge](https://app.codacy.com/project/badge/Grade/bbb27595217f4ab6b3418b126d27c658)](https://www.codacy.com/gh/9Sathiyaseelan/M2_Module2/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=9Sathiyaseelan/M2_Module2&amp;utm_campaign=Badge_Grade)
 
 
 ## Folder Structure
