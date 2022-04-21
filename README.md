@@ -12,6 +12,7 @@ Folder               | Description
 `2_Architecture`     | Documents Specifying design details.
 `3_Implementation`   | All Code and Documentation.
 `4_Images and output`| Output Images.
+'5_Report'           | Simulation Image
 
 ## Functions 
 
