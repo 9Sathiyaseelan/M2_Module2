@@ -25,9 +25,3 @@ Folder               | Description
 
 ![activity_4 4](https://user-images.githubusercontent.com/94169797/144205368-60e9bf0a-fb85-4913-92df-f6a46ada786a.jpg)
 
-
-
-
-
-## Badges
-*   Codacy
