@@ -4,8 +4,12 @@ Naming Convention:  "Heating System"
 ##  Badges
 * Codacy - Static code Analysis [![Codacy Badge](https://app.codacy.com/project/badge/Grade/bbb27595217f4ab6b3418b126d27c658)](https://www.codacy.com/gh/9Sathiyaseelan/M2_Module2/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=9Sathiyaseelan/M2_Module2&amp;utm_campaign=Badge_Grade)
 
-* Codiga - Static code analysis 
-* Codiga - Static Code Grade
+* Codiga - Static code analysis [![Codiga Badge](https://api.codiga.io/project/32960/score/svg)]
+* Codiga - Static Code Grade [![Codiga badge](https://api.codiga.io/project/32960/status/svg)]
+
+# Cppcheck
+
+
 
 ## Folder Structure
 Folder               | Description
