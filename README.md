@@ -1,11 +1,36 @@
 # M2_Module2
-Naming Convention:  "Heat Control System"
+Naming Convention:  "Heating System"
 
-# Heat Control System
 
-# Theory
+## Folder Structure
+Folder               | Description
+-------------------  | -----------------------------------------
+`1_Requirements`     | Documents Detailing requirements and research.
+`2_Architecture`     | Documents Specifying design details.
+`3_Implementation`   | All Code and Documentation.
+`4_Images and output`| Output Images.
 
-The heat control system is basically used to control the temperature of a car seat. When a user or driver of the car gets seated on a car, the button sensor gets activated. After that, the user gets access to turn on the heater. The temperature sensor keeps monitoring the temperature and sends the analog value to the microcontroller. The microcontroller processes the analog input of the temperature sensor and outputs a temperature value through serial communication. All the activities of the control system are done on a microcontroller called Atmega328.
+## Functions 
+
+| Feature Id | Feature |
+| -----------|---------|
+|F_01|  sensing if the person is seated  |
+|F_02| Blinking the LED  |
+
+### Image
+
+![activity_4 4](https://user-images.githubusercontent.com/94169797/144205368-60e9bf0a-fb85-4913-92df-f6a46ada786a.jpg)
+
+
+
+## Challenges Faced and How Was It Overcome
+
+1.GCC erorr in windows and linux: installed the gcc msys64 mingw64 properly.
+
+2.Generation of makefile: To overcome this problem research on makefiles was done.
+
+3.Unity testing: Initially a few testcases did not pass, to overcome this issue debugging of program was performed.
+
 
 
 
