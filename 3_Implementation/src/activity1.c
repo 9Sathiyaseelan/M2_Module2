@@ -24,7 +24,7 @@ int act1=0;
 int activity1_LED(void)
 {
        peripheral_init();
-        if(!(PIND&(1<<BUTTON_SENSOR )) && !(PIND&(1<<TEMP_SENSOR))) //both the switches are pressed
+        if(!(PIND&(1<<BUTTON_SENSOR )) && !(PIND&(1<<TEMP_SENSOR))) 
         { 
             act1=1;
         }
