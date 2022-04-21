@@ -1,6 +1,9 @@
 # M2_Module2
 Naming Convention:  "Heating System"
 
+##  Badges
+* Codacy
+
 
 ## Folder Structure
 Folder               | Description
