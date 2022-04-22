@@ -8,7 +8,7 @@ Naming Convention:  "Seat Heating Control System"
 * Codiga - Static Code Grade [![Codiga badge](https://api.codiga.io/project/32960/status/svg)]
 
 # Cppcheck
-
+[![Cpp-Check](https://github.com/9Sathiyaseelan/M2_Module2/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/9Sathiyaseelan/M2_Module2/actions/workflows/c-cpp.yml)
 
 
 ## Folder Structure
