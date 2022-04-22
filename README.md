@@ -1,5 +1,5 @@
 # M2_Module2
-Naming Convention:  "Heating System"
+Naming Convention:  "Seat Heating Control System"
 
 ##  Badges
 * Codacy - Static code Analysis [![Codacy Badge](https://app.codacy.com/project/badge/Grade/bbb27595217f4ab6b3418b126d27c658)](https://www.codacy.com/gh/9Sathiyaseelan/M2_Module2/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=9Sathiyaseelan/M2_Module2&amp;utm_campaign=Badge_Grade)
