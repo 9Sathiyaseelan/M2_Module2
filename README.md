@@ -9,7 +9,7 @@ Naming Convention:  "Seat Heating Control System"
 
 # Cppcheck
 [![Cpp-Check](https://github.com/9Sathiyaseelan/M2_Module2/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/9Sathiyaseelan/M2_Module2/actions/workflows/c-cpp.yml)
-
+[![Analysis](https://github.com/9Sathiyaseelan/M2_Module2/actions/workflows/analysis.yml/badge.svg)](https://github.com/9Sathiyaseelan/M2_Module2/actions/workflows/analysis.yml)
 
 ## Folder Structure
 Folder               | Description
